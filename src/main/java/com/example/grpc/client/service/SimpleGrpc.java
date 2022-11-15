@@ -1,4 +1,4 @@
-package com.example.grpc.client;
+package com.example.grpc.client.service;
 
 import static io.grpc.MethodDescriptor.generateFullMethodName;
 
